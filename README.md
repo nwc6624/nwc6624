@@ -23,13 +23,11 @@ Here are some projects I've been working on:
 - **Gym Timer App**: A highly customizable fitness timer built with React Native.
 - **Best Eastern**: A Java EE web application demonstrating full-stack development and database integration.
 
-## 📊 GitHub Activity Overview
-- **Total Contributions This Year**: ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nwc6624&count_private=true&show_icons=true&theme=radical&hide=prs)
-- **Languages Used**:  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwc6624&layout=compact&theme=radical)
+## 📈 Contribution Heatmap
+![GitHub Heatmap](https://ghchart.rshah.org/nwc6624)
 
 ## 🤝 Let's Connect!
 - 🌐 **Website**: [noahcaulfield.com](http://noahcaulfield.com)
 - 💼 **LinkedIn**: [linkedin.com/in/noah-caulfield](https://linkedin.com/in/noah-caulfield)
-
 - 💻 **GitHub**: [github.com/nwc6624](https://github.com/nwc6624)
+
