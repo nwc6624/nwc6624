@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI Enthusiast** with a background in Computer Science. I love building innovative solutions, diving into challenging problems, and contributing to meaningful projects.
 
 ## 🌟 About Me
-- 🎓 **Recent Graduate**: Bachelor of Science in Computer Science, Eastern New Mexico University (2024)
+- 🎓 **Recent Graduate**: Bachelor of Science in Computer Science, Eastern New Mexico University (December 2024)
 - 🌍 Based in: New Mexico, USA
 - 🧠 Interests: Machine Learning, Mobile Development, Full-Stack Web Development
 - 🎯 Career Goals: To build scalable, impactful software and deepen my expertise in cutting-edge technologies.
