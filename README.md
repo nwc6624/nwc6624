@@ -1,37 +1,66 @@
-# 👋 Hello, I'm Noah Caulfield!
+# Noah Caulfield
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** and **AI Enthusiast** with a background in Computer Science. I love building innovative solutions, diving into challenging problems, and contributing to meaningful projects.
+**Software Developer | AI Enthusiast | Incoming Georgia Tech OMSCS Student (Spring 2026)**  
 
-## 🌟 About Me
-- 🎓 **Recent Graduate**: Bachelor of Science in Computer Science, Eastern New Mexico University (December 2024)
-- 🌍 Based in: New Mexico, USA
-- 🧠 Interests: Machine Learning, Mobile Development, Full-Stack Web Development
-- 🎯 Career Goals: To build scalable, impactful software and deepen my expertise in cutting-edge technologies.
+Welcome to my GitHub! I’m a passionate developer with a strong foundation in **Computer Science** and a growing focus on **Artificial Intelligence** and **Software Systems**. I love building products that merge creativity with impact — from scalable backend systems to intelligent, user-friendly applications.
 
-## 🚀 Skills & Technologies
-- **Languages**: Python, Java, JavaScript, SQL, Dart
-- **Frameworks**: Flask, React, Flutter
-- **Development Tools**: Git, Docker, Jenkins
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud Platforms**: AWS
-- **Machine Learning**: PyTorch, LangChain, Hugging Face
-- **Other**: Kubernetes, Terraform, Redis
+---
 
-## 📂 Featured Projects
-Here are some projects I've been working on:
-- **[ENMUmobile](https://github.com/nwc6624/ENMU_CS_458_Semester_Project)**: A cross-platform mobile app for Eastern New Mexico University.
-- **Gym Timer App**: A highly customizable fitness timer built with React Native.
-- **Best Eastern**: A Java EE web application demonstrating full-stack development and database integration.
+## About Me
+- 🎓 **Education**  
+  - *M.S. in Computer Science (in progress)* – Georgia Institute of Technology (Spring 2026)  
+  - *B.S. in Computer Science* – Eastern New Mexico University (December 2024)  
+- 📍 **Location:** New Mexico, USA  
+- 🧩 **Interests:** Machine Learning, Software Engineering, Mobile Development, Cloud Infrastructure  
+- 🎯 **Goal:** To design and implement systems that are intelligent, efficient, and built to last.
 
-## 📊 GitHub Highlights
-### Language Usage
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwc6624&layout=compact&theme=radical)
+---
 
-### Contribution Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nwc6624&theme=radical)
+## Technical Skills
 
-## 🤝 Let's Connect!
-- 🌐 **Website**: [noahcaulfield.com](http://noahcaulfield.com)
-- 💼 **LinkedIn**: [linkedin.com/in/noah-caulfield](https://linkedin.com/in/noah-caulfield)
-- 💻 **GitHub**: [github.com/nwc6624](https://github.com/nwc6624)
+**Languages**  
+Python · Java · JavaScript · SQL · Dart  
 
+**Frameworks & Libraries**  
+Flask · React · Flutter  
+
+**DevOps & Tools**  
+Git · Docker · Jenkins · Kubernetes · Terraform  
+
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Redis  
+
+**Cloud & AI**  
+AWS · PyTorch · LangChain · Hugging Face  
+
+---
+
+## Featured Projects
+
+### [ENMUmobile](https://github.com/nwc6624/ENMU_CS_458_Semester_Project)
+A cross-platform mobile application for Eastern New Mexico University built with Flutter. Designed to improve student engagement and campus communication.
+
+### [Gym Timer App](https://github.com/nwc6624/gym-timer-app)
+A customizable fitness timer built with React Native, focusing on clean UI, accessibility, and performance.
+
+### [Best Eastern](https://github.com/nwc6624/BestEastern)
+A Java EE web application demonstrating full-stack development principles, including REST APIs and database integration.
+
+---
+
+## GitHub Insights
+
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwc6624&layout=compact&theme=tokyonight)
+
+---
+
+## Connect with Me
+
+- 🌐 [noahcaulfield.com](http://noahcaulfield.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/noah-caulfield)  
+- 💻 [GitHub](https://github.com/nwc6624)  
+
+---
+
+### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
