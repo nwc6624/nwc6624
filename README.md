@@ -1,6 +1,6 @@
 # Noah Caulfield
 
-**Graduate Computer Science Student @ Georgia Tech | Mobile & AI Developer**
+**Graduate Computer Science Student @ Georgia Tech | Mobile & AI/ML Developer**
 
 Welcome to my GitHub! I’m a passionate developer with a strong foundation in **Computer Science** and a growing focus on **Artificial Intelligence** and **Software Systems**. I love building products that merge creativity with impact — from scalable backend systems to intelligent, user-friendly applications.
 
