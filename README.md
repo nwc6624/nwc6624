@@ -2,8 +2,7 @@
 
 **Graduate Computer Science Student @ Georgia Tech | Mobile & AI Developer**
 
-Welcome to my GitHub! I’m a passionate developer with a strong foundation in **Computer Science** and a growing focus on **Artificial Intelligence** and **Software Systems**. I love building products that merge creativity with impact — from scalable backend systems to intelligent, user-friendly applications.
-
+Welcome to my GitHub! 
 ---
 
 ## About Me
@@ -47,8 +46,6 @@ A cross-platform mobile application for Eastern New Mexico University built with
 ### [Gym Timer App](https://github.com/nwc6624/gym-timer-app)
 A customizable fitness timer built with React Native, focusing on clean UI, accessibility, and performance.
 
-### [Best Eastern](https://github.com/nwc6624/BestEastern)
-A Java EE web application demonstrating full-stack development principles, including REST APIs and database integration.
 
 ---
 
@@ -63,10 +60,8 @@ A Java EE web application demonstrating full-stack development principles, inclu
 
 - 🌐 [noahcaulfield.com](http://noahcaulfield.com)
 - 💼 [LinkedIn](https://linkedin.com/in/noah-caulfield)
-- 💻 [GitHub](https://github.com/nwc6624)
 
 ---
 
 ### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
 
-### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
