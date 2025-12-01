@@ -1,6 +1,6 @@
 # Noah Caulfield
 
-**Graduate Computer Science Student @ Georgia Tech | Mobile & AI/ML Developer**
+**Graduate Computer Science Student @ Georgia Tech | Mobile & AI Developer**
 
 Welcome to my GitHub! I’m a passionate developer with a strong foundation in **Computer Science** and a growing focus on **Artificial Intelligence** and **Software Systems**. I love building products that merge creativity with impact — from scalable backend systems to intelligent, user-friendly applications.
 
@@ -9,9 +9,9 @@ Welcome to my GitHub! I’m a passionate developer with a strong foundation in *
 ## About Me
 - 🎓 **Education**
   - *M.S. in Computer Science* – Georgia Institute of Technology (Spring 2026)
-  - *B.S. in Computer Science* – Eastern New Mexico University (Dec 2024)
+  - *B.S. in Computer Science* – Eastern New Mexico University (December 2024)
 - 📍 **Location:** New Mexico, USA
-- 🧩 **Interests:** Machine Learning, Augmented Reality (AR), Mobile Development, Cloud Infrastructure
+- 🧩 **Interests:** Machine Learning, Software Engineering, Mobile Development, Cloud Infrastructure
 - 🎯 **Goal:** To design and implement systems that are intelligent, efficient, and built to last.
 
 ---
@@ -19,10 +19,10 @@ Welcome to my GitHub! I’m a passionate developer with a strong foundation in *
 ## Technical Skills
 
 **Languages**
-Python · Java · JavaScript · TypeScript · Dart · SQL
+Python · Java · JavaScript · SQL · Dart
 
 **Frameworks & Libraries**
-React Native · Flutter · Flask · React · ARCore
+Flask · React · Flutter
 
 **DevOps & Tools**
 Git · Docker · Jenkins · Kubernetes · Terraform
@@ -37,21 +37,18 @@ AWS · PyTorch · LangChain · Hugging Face
 
 ## Featured Projects
 
-### [TileVision (Google Play)](https://play.google.com/store/apps/details?id=noah.caulfield.tilevision&hl=en_US)
-**Tech:** React Native, TypeScript, ARCore
-An Augmented Reality (AR) utility app that transforms a smartphone into a remodeling tool. Users can measure surfaces in real-time, calculate tile requirements automatically, and export project summaries.
+### [TileVision](https://play.google.com/store/apps/details?id=noah.caulfield.tilevision&hl=en_US)
+*(Available on Google Play)*
+An Augmented Reality (AR) utility app designed to simplify home remodeling. It allows users to visualize tile placement and measure surfaces in real-time using mobile AR technology.
 
 ### [ENMUmobile](https://github.com/nwc6624/ENMU_CS_458_Semester_Project)
-**Tech:** Flutter, Dart
-A cross-platform mobile application for Eastern New Mexico University. Designed to improve student engagement and campus communication through a centralized mobile hub.
+A cross-platform mobile application for Eastern New Mexico University built with Flutter. Designed to improve student engagement and campus communication.
 
 ### [Gym Timer App](https://github.com/nwc6624/gym-timer-app)
-**Tech:** React Native, JavaScript
-A customizable fitness timer focusing on clean UI, accessibility, and performance. Features custom intervals and sound alerts for workout tracking.
+A customizable fitness timer built with React Native, focusing on clean UI, accessibility, and performance.
 
 ### [Best Eastern](https://github.com/nwc6624/BestEastern)
-**Tech:** Java EE, REST APIs
-A web application demonstrating full-stack development principles, including robust database integration and RESTful architecture.
+A Java EE web application demonstrating full-stack development principles, including REST APIs and database integration.
 
 ---
 
@@ -69,5 +66,7 @@ A web application demonstrating full-stack development principles, including rob
 - 💻 [GitHub](https://github.com/nwc6624)
 
 ---
+
+### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
 
 ### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
