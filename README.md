@@ -9,7 +9,7 @@ Welcome to my GitHub!
 
 ## About Me
 - 🎓 **Education**
-  - *M.S. in Computer Science* – Georgia Institute of Technology (In Progress Spring 2026)
+  - *M.S. in Computer Science* – Georgia Institute of Technology (3/10 deep as of summer 26')
   - *B.S. in Computer Science* – Eastern New Mexico University (December 2024)
 - 📍 **Location:** New Mexico, USA
 - 🧩 **Interests:** Machine Learning, Software Engineering, Mobile Development, Cloud Infrastructure
