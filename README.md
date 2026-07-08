@@ -1,69 +1,88 @@
 # Noah Caulfield
 
-**Graduate Computer Science Student @ Georgia Tech | Mobile & AI Developer**
+**M.S. Computer Science Student at Georgia Tech | Software Engineer | AI Developer**
 
-Welcome to my GitHub! 
+Welcome to my GitHub. I'm a graduate Computer Science student at the Georgia Institute of Technology with interests in software engineering, artificial intelligence, backend systems, and mobile development. I enjoy building practical software that solves real-world problems while continuously learning new technologies.
+
 ---
 
-
-
 ## About Me
-- 🎓 **Education**
-  - *M.S. in Computer Science* – Georgia Institute of Technology (3/10 deep as of summer 26')
-  - *B.S. in Computer Science* – Eastern New Mexico University (December 2024)
-- 📍 **Location:** New Mexico, USA
-- 🧩 **Interests:** Machine Learning, Software Engineering, Mobile Development, Cloud Infrastructure
-- 🎯 **Goal:** To design and implement systems that are intelligent, efficient, and built to last.
+
+### Education
+
+**Georgia Institute of Technology**
+- M.S. Computer Science (OMSCS)
+- Artificial Intelligence Specialization
+- Expected Graduation: 2028
+
+**Eastern New Mexico University**
+- B.S. Computer Science
+- December 2024
+
+### Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Mobile Development
+- Cloud Infrastructure
+- Distributed Systems
 
 ---
 
 ## Technical Skills
 
-**Languages**
-Python · Java · JavaScript · SQL · Dart
+### Languages
+Python • Java • C# • C++ • SQL • JavaScript • Dart • Kotlin
 
-**Frameworks & Libraries**
-Flask · React · Flutter
+### Frameworks & Technologies
+FastAPI • Flutter • React • Node.js • Flask • Android • Unity
 
-**DevOps & Tools**
-Git · Docker · Jenkins · Kubernetes · Terraform
+### Cloud & Databases
+PostgreSQL • Supabase • Docker • Git
 
-**Databases**
-PostgreSQL · MySQL · MongoDB · Redis
-
-**Cloud & AI**
-AWS · PyTorch · LangChain · Hugging Face
+### Artificial Intelligence
+PyTorch • Scikit-learn • NumPy • LLM Evaluation • Computer Vision (ARCore)
 
 ---
 
 ## Featured Projects
 
-### [TileVision](https://play.google.com/store/apps/details?id=noah.caulfield.tilevision&hl=en_US)
-*(Available on Google Play)*
-An Augmented Reality (AR) utility app designed to simplify home remodeling. It allows users to visualize tile placement and measure surfaces in real-time using mobile AR technology.
+### TileVision
+https://play.google.com/store/apps/details?id=noah.caulfield.tilevision&hl=en_US
 
-### [ENMUmobile](https://github.com/nwc6624/ENMU_CS_458_Semester_Project)
-A cross-platform mobile application for Eastern New Mexico University built with Flutter. Designed to improve student engagement and campus communication.
+An augmented reality Android application that helps users visualize tile placement and measure surfaces before beginning home renovation projects.
 
-### [Gym Timer App](https://github.com/nwc6624/gym-timer-app)
-A customizable fitness timer built with React Native, focusing on clean UI, accessibility, and performance.
-
+**Technologies:** Java, ARCore
 
 ---
 
-## GitHub Insights
+### ENMUmobile
+https://github.com/nwc6624/ENMU_CS_458_Semester_Project
 
-**Top Languages**
+A cross-platform Flutter application designed to improve communication and engagement for Eastern New Mexico University students.
+
+**Technologies:** Flutter, Dart
+
+---
+
+### Gym Timer App
+https://github.com/nwc6624/gym-timer-app
+
+A customizable workout timer focused on simplicity, accessibility, and performance.
+
+**Technologies:** React Native
+
+---
+
+## GitHub Statistics
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwc6624&layout=compact&theme=tokyonight)
 
 ---
 
-## Connect with Me
+## Connect
 
-- 🌐 [noahcaulfield.com](http://noahcaulfield.com)
-- 💼 [LinkedIn](https://linkedin.com/in/noah-caulfield)
+**Website:** http://noahcaulfield.com
 
----
-
-### 💬 “Code should not just solve problems — it should make solving problems easier for others.”
-
+**LinkedIn:** https://linkedin.com/in/noah-caulfield
